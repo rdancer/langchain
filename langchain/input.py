@@ -4,7 +4,7 @@ from typing import Dict, List, Optional
 _TEXT_COLOR_MAPPING = {
     "blue": "36;1",
     "yellow": "33;1",
-    "pink": "38;5;200",
+    "pink": "38;5;200;1",
     "green": "32;1",
     "red": "31;1",
 }
